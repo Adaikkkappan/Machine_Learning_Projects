@@ -1,4 +1,4 @@
-# Thoracic Surgery Dataset - Decision Tree
+# Thoracic Surgery Dataset - Random Forest
 
 ### Introduction
 
